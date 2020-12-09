@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">LV5-ORWiMA-zadaca</string>
+    <string name="app_displayName">Famous People</string>
+    <string name="editTextDescriptionHint">Enter new description</string>
+    <string name="editDescriptionButtonText">EDIT DESCRIPTION</string>
+
+    <string name="firstPerson">Mike Tyson</string>
+    <string name="secondPerson">Neil deGrasse Tyson</string>
+    <string name="thirdPerson">Tyson Fury</string>
+    <string name="firstPersonAge">1966-</string>
+    <string name="secondPersonAge">1958-</string>
+    <string name="thirdPersonAge">1988-</string>
+    <string name="firstPersonDescription">
+        Umirovljeni je američki boksač, bivši svjetski prvak u teškoj kategoriji. Jedan je od najpopularnijih, ali i najkontroverznijih sportaša svih vremena,
+        poznat koliko po svojem izuzetno jakom udarcu.
+    </string>
+    <string name="secondPersonDescription">
+        Američki astrofizičar, pisac i popularizator znanosti. Trenutačno je ravnatelj Haydenova planetarija pri Centru za Zemlju i svemir te znanstveni
+        suradnik na Odjelu astrofizike pri Američkom prirodoslovnom muzeju.
+    </string>
+    <string name="thirdPersonDescription">
+        British professional boxer. He is a two-time heavyweight world champion, having held the WBC, The Ring magazine and lineal titles since defeating Deontay
+        Wilder in February 2020.
+    </string>
 </resources>
